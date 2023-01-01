@@ -1,0 +1,21 @@
+div {
+  background-color: bisque;
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+}
+.assign-1-shape-1 {
+  border: solid 5px red;
+  outline: solid 5px black;
+}
+.assign-1-shape-2 {
+  border-style: solid;
+  border-color: blue green ;
+  outline: solid 5px black;
+}
+
+.assign-1-shape-3 {
+  border-style: dashed;
+  border-color: blue green ;
+  outline: solid 5px black;
+}

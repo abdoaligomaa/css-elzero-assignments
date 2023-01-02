@@ -1,0 +1,13 @@
+div{
+  max-width: 400px;
+  margin: 10px;
+  padding: 10px;
+  background-color: red;
+  color: white;
+  width: fit-content;
+  max-height: 50px;
+}
+
+.assign-2-shape-4{
+  overflow :hidden
+}

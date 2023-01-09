@@ -1,0 +1,28 @@
+.parent {
+  list-style: none;
+}
+.parent {
+  width: 400px;
+  margin: auto;
+}
+.parent li {
+  margin-top: 20px;
+  background-color: rgb(199, 209, 209);
+  padding: 10px;
+}
+.list-one li,
+.list-two li,
+.list-three li {
+  background-color: white;
+}
+.list-one {
+  list-style-position: outside;
+}
+.list-two {
+  list-style-position: outside;
+}
+.list-three {
+  list-style: disc;
+  list-style-position: inside;
+  padding: 2px;
+}

@@ -1,0 +1,19 @@
+p {
+  width: 400px;
+  margin: auto;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: beige;
+  border-left: solid red 5px;
+  position: relative;
+}
+
+p::before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  border: 10px solid;
+  border-color: transparent red transparent transparent;
+  left: -24px;
+}

@@ -1,0 +1,16 @@
+div {
+  width: 300px;
+  background-color: bisque;
+  margin: auto;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+div::first-letter {
+  background-color: red;
+  color: white;
+  padding: 15px 10px;
+  margin-left: -33px;
+  font-weight: bold;
+  margin-right: 12px;
+}

@@ -1,0 +1,26 @@
+.parent{
+  width: 550px;
+  text-align: center;
+  margin: 20px auto;
+  padding: 10px;
+}
+.child{
+  background-color: antiquewhite;
+  width: 250px;
+  float: left;
+  margin-left: 10px;
+  padding-top: 10px;
+}
+
+button{
+  text-decoration: none;
+  width: 100px;
+  background-color: aqua;
+
+}
+p{
+  background-color: rgb(187, 187, 65);
+  width: 125px;
+  margin: auto;
+  border-radius: 50%;
+}
